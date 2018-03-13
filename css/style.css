@@ -1,0 +1,182 @@
+.img-circle {
+	border-radius: 50%;
+	height: 110px;
+	width: 145px;
+	margin-top: 45px;
+}
+ul {
+	list-style: none;
+	margin-left: -40px;
+}
+a {
+	padding-right: 15px;
+	color: cadetblue;
+}
+.responsive {
+	height: 181px;
+	width: 480px;
+	margin-top: 25px;
+}
+.img-circle-point {
+	border-radius: 50%;
+	height: 110px;
+	width: 130px;
+	margin-top: 17px;
+}
+.img-circle-kim {
+	border-radius: 30px;
+	height: 45px;
+	width: 50px;
+}
+.btn-sm {
+	padding: 3px 72px;
+    font-size: 12px;
+    line-height: 2.5;
+    border-radius: 6px;
+    margin-top: -31px;
+    margin-bottom: -35px;
+    
+}
+p {
+	margin-bottom: 40px;
+	margin-top: 5px;
+}
+.fa {
+	padding-right: 15px;
+
+}
+.form-inline {
+	margin-top: -30px;
+}
+li {
+	list-style: none;
+}
+.nav > li {
+	position:relative;
+	display:block;
+	float:left;
+	margin-top: -39px;
+}
+
+.navbar-default {
+    background-color: transparent;
+    border-color: #e7e7e7;
+    margin-right: -74px;
+}
+.navbar-right {
+	font-size: 20px;
+}
+.core {
+	float: right;
+	margin-top: -102px;
+    list-style: none;
+    position: block;
+    display: -webkit-inline-box;
+    margin-left: 30px;
+    font-size: 15px;
+}
+.view {
+	margin-left: 10px;
+	margin-top: 15px;
+	font-size: large;
+}
+.col-md-10 {
+	padding-left: 0px;
+	padding-right: 34px;
+}
+h5 {
+	padding-left: 45px;
+	border-bottom: 2px solid;
+}
+.code {
+	margin-left: 5px;
+}
+h3 {
+	margin-left: 40px;
+}
+.point {
+	position: absolute;
+	margin-left: -35px;
+	margin-top: 13px;
+	font-size: 20px;
+}
+.col-md-6 {
+	margin-bottom: 55px;
+}
+.font {
+
+}
+
+
+tbody {
+	background-color: white;
+	color: darkcyan;
+}
+thead {
+	background-color: rgba(26, 26, 97, 0.63);
+	color: white;
+}
+.col-md-2 {
+	padding-bottom: 441px;
+	background-color: rgba(0, 8, 14, 0.91);
+	color: rgba(195, 190, 190, 0.66);
+	margin-left: -25px;
+}
+hr {
+    margin-top: 40px;
+    margin-bottom: 20px;
+    border: 0;
+    border-top: 1px solid #5a5858;
+}
+.btn-primary {
+	margin-left: -10px;
+}
+
+.btn-round-lg {
+	height: 30px;
+	width: 185px;
+	border-radius: 15px;
+	padding: 6px 0px;
+	margin-left: 170px;
+	margin-top: 13px;
+}
+.active {
+	color: white;
+	background-color: blue;
+	border-left: 2px solid;
+}
+.fa-th {
+	
+	padding-right: 5px;
+	padding-left: 5px;
+	border-left: 2px solid; 
+}
+.man-u > ul > li {
+	float: left;
+	padding-left: 40px;
+}
+.active1 {
+	border-bottom: 2px solid;
+	padding: 4px;
+}
+
+.row {
+    margin-right: -74px;
+    margin-left: 0px;
+    background-color: aliceblue;
+    margin-top: -20px;
+}
+.nav > li > a:hover {
+	background-color: blue;
+	color: white;
+}
+.btn-circle-sm {
+	height: 33px;
+	width: 60px;
+	border-radius: 15px;
+}
+.fa-chevron-down {
+	float: right;
+	margin-top: -26px;
+	margin-right: 30px;
+}
